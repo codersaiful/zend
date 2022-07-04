@@ -9,3 +9,4 @@
  * @author Saiful Islam <codersaiful@gmail.com>
  * 
  */
+for($i=1,$j=1;$i<=10;$j+=$i,print $i . "<br>",print$j,$i++);
