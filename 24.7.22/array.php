@@ -4,6 +4,9 @@ foreach($arrs as &$val){
     $val = "Somthing" . $val;
 }
 
+//extract()
+//Array'r key gulo ke variable kore dey
+
 var_dump($arrs);
 // foreach($students as list($name,$age,$address))
 // {
