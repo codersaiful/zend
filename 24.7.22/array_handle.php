@@ -52,7 +52,7 @@ $array = [
     'post'          => $_POST,
     'get'           => $_GET,
     'my_class'      => new class{
-        
+
         public $value = "Test Value";
         public function getValue(){
             return $this->value;
@@ -82,7 +82,7 @@ function array_remove_empty_item($array){
     if(!is_array($array)) return $array;
 
     foreach( $array as $key => &$value ){
-        if( empty( $value ) ){
+        if( empty( $value ) ){ //!is_bool($value) && //If we need also item also.
             unset( $array[$key] );
         }else{
             if( is_array( $value ) ){
