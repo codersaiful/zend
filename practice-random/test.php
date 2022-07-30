@@ -11,3 +11,10 @@ echo '<hr>';
  * if 0b, it Binary
  */
 echo 0b101;
+var_dump(012);
+var_dump(01724);
+var_dump(0b1101);
+var_dump(0b101011);
+echo '<hr>';
+var_dump(0x10,0xA);
+var_dump(0xABC1);
