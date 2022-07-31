@@ -69,9 +69,13 @@ $students = [
      * sort($arr, SORT_NATURAL | SORT_FLAG_CASE)
      * 
      * asort() associative sort
+     * rsort()
+     * arsort() key gulo rekhe rsort()
      * ksort() 
+     * krsort()
      */
 
      /**
-      * 
+      * natsort() automatically natural sort tobe case bade
+      * natcasesort() case shoho natural,sort_flag_case soho
       */
