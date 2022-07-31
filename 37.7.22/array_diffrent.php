@@ -55,4 +55,23 @@ $students = [
    * 
    */
 
-   
+   /**
+    * array_splice($arr,3), 
+    https://www.php.net/manual/en/function.array-splice.php
+    param system substr er moto
+    */
+    // array_splice()
+
+    /**
+     * sort() 
+     * return value nai
+     * 
+     * sort($arr, SORT_NATURAL | SORT_FLAG_CASE)
+     * 
+     * asort() associative sort
+     * ksort() 
+     */
+
+     /**
+      * 
+      */
