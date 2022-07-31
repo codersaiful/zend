@@ -79,3 +79,8 @@ $students = [
       * natsort() automatically natural sort tobe case bade
       * natcasesort() case shoho natural,sort_flag_case soho
       */
+
+      /**
+       * alada algoridom onjayi
+       * agami class a hobe
+       */
