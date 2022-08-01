@@ -42,6 +42,7 @@ $students = [
   * array_merge()
 
   array_merge_recursive()
+  vitorer array guloteo merge korbe
   */
 
   /**
@@ -58,7 +59,7 @@ $students = [
    /**
     * array_splice($arr,3), 
     https://www.php.net/manual/en/function.array-splice.php
-    param system substr er moto
+    param system substr er moto and eta diye array push,pop,unshift,shift er kaj kora jay.
     */
     // array_splice()
 
