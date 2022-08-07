@@ -13,7 +13,18 @@
  *          
  * 
  * 3. What is Class
+ *      A blue print of Object. (object class or object same jinis na)
  * 3. What is Object
+ * 
+ * 4. Others
+ *      Static
+ *      :: scope-resulation operator
+ *      => use for access Static property,method,constant
+ *      
+ *      $this
+ *      
+ *      new ClassName
+ * 
  * 
  * 
  */
