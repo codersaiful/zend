@@ -36,7 +36,19 @@ echo "<br>";
  */
 Math::add(100);
 Math::get();
-
+echo "<br>";
+echo "22" + "0.2", 23.1;
 /**
  * static procedural a kaj kore.
+ */
+/**
+ * single quote 
+ * dile name NowDoc
+ * ar double qute or faka hole
+ * Here doc
+ */
+/** 
+ Question Solution:
+ 1. 
+ 2. 
  */
