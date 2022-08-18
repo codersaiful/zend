@@ -50,4 +50,14 @@ function execute_numta( int $numtaGhar, int $limit = 10 ){
     }
     echo '------------';
 }
-execute_numta(141);
+execute_numta(13);
+
+//Q: 22
+echo '<hr>';
+echo 'H' . print 2 . print 4 . print 'A'; //A4121H1
+echo '<br>';
+echo 'H' . (print 2) . print 4 . ( print 'S' ); //2S41H11
+
+// echo 3 . (boolval(2)) . '<br>';
+echo '<hr>';
+var_dump(print 2);
