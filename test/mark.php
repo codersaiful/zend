@@ -17,7 +17,8 @@
             <option>Saiful23</option>
             <option>Saiful234</option>
         </select>
-        <input type="submit" value="submit">
+        <input name="submit-1" type="submit" value="submit">
+        <input name="submit-2" type="submit" value="submit 2 Button">
     </form>
 </body>
 </html>
