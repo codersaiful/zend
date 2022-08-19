@@ -1,5 +1,5 @@
 <?php 
-namespace APP\Base\Design;
+namespace App\Base\Design;
 
 class Base{
     public $test = 'test';

@@ -1,5 +1,5 @@
 <?php 
-namespace APP\Test;
+namespace App\Test;
 
 interface Structure{
     public function get_id();

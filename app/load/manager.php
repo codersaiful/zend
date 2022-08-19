@@ -1,5 +1,6 @@
 <?php 
-namespace APP\Load;
-use APP\Base\Design\Base;
+namespace App\Load;
+use App\Base\Design\Base;
 
 include 'test-loader.php';
+include 'table/load.php';

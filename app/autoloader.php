@@ -1,5 +1,5 @@
 <?php 
-namespace APP;
+namespace App;
 
 class Autoloader{
     public static function run(){
