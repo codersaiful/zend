@@ -4,14 +4,16 @@ MD. Saiful Islam
 2. C
 3. B
 4. A
-5. ....
+5. d
 6. A,C
 7. A (....)
 8.C ..
-9. D
+9. A //ami diyechilam D 
 10. A
-11.C ..
-12.D
+11.C .. //ItsUNIX command
+12.A //jotil uttor, asole mil nai. eta niye onek confusion ache.
+sudhu matro etar <?= (int) ((0.1 + 0.8) * 10); ?> 
+jonnoi 7, baki sob kkhetre sothik vabe hobe.
 13. D ..
 14. D 
 15. A
