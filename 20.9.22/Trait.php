@@ -27,6 +27,7 @@ trait myTrait2{
 }
 
 class myClass{
+    public $color;
     use MyTrait,myTrait2{
         MyTrait::saiful insteadof myTrait2;
         myTrait2::saiful as mysaiful;
@@ -43,4 +44,3 @@ var_dump($obj->saiful());
 var_dump($obj->mysaiful());
 var_dump($obj->othersaiful());
 var_dump($obj);
-var_dump($obj->);
