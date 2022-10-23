@@ -18,6 +18,8 @@ function checkNum($num){
     }
 }
 
+//mailto:me@hasin.me
+
 echo checkNum(0);
 
 try{
