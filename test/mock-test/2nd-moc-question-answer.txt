@@ -1,0 +1,46 @@
+MD. Saiful Islam
+
+1. A
+2. C
+3. B
+4. A
+5. d
+6. A,C
+7. A (....)
+8.C ..
+9. A //ami diyechilam D 
+10. A
+11.C .. //ItsUNIX command
+12.A //jotil uttor, asole mil nai. eta niye onek confusion ache.
+sudhu matro etar <?= (int) ((0.1 + 0.8) * 10); ?> 
+jonnoi 7, baki sob kkhetre sothik vabe hobe.
+13. D ..
+14. D 
+15. A
+16. B
+17. A
+18. D
+19. B 
+20. A
+21. D thik ache eta.
+22. B
+23. B //vul kore 2 diyechilam. r default value deya thakleo valu assign kora jay.
+24.A
+25. B 
+26.A 
+27. D// vull diyechilam, asole d hobe.
+28. D
+29. A
+30. C
+31. A /thik chilo
+32. B
+33. A
+34. A
+35. A 
+36. A
+37.  D 
+38. A
+39. C 
+40. A //vagses hiseb korte vull korechilam. 
+41.
+42.
