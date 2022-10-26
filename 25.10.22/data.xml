@@ -19,4 +19,23 @@
             
         </address>
     </student>
+    <student>
+        <name>Saiful Islam 2</name>
+        <mobile>017240254122</mobile>
+        <email>codersaiful@gmail.com2</email>
+        <address>
+            <presentAdress>
+                <district>Rajshahi2</district>
+                <thana>Durgapur2</thana>
+                <post>121212</post>
+            </presentAdress>
+            
+            <permanentAddress>
+                <district>Rajshahi2</district>
+                <thana>Durgapur2</thana>
+                <post>121212</post>
+            </permanentAddress>
+            
+        </address>
+    </student>
 </college>
