@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes">
+<info xmlns:student="http://w3p.com/student" xmlns:fruit="http://w3p.com/student">
+    <student:table>
+        <student:name>Saiful</student:name>
+        <student:age>Saiful</student:age>
+    </student>
+    <student:fruit>
+        <fruit:name>Saiful</student:name>
+        <fruit:age>Saiful</student:age>
+    </student>
+
+</info>
