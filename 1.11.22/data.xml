@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<college>
+    <student>
+        <name>Saiful Islam</name>
+        <mobile>01724025412</mobile>
+        <email>codersaiful@gmail.com</email>
+        <address>
+            <presentAdress>
+                <district>Rajshahi</district>
+                <thana>Durgapur</thana>
+                <post>12121</post>
+            </presentAdress>
+            
+            <permanentAddress>
+                <district>Rajshahi</district>
+                <thana>Durgapur</thana>
+                <post>12121</post>
+            </permanentAddress>
+            
+        </address>
+    </student>
+    <student>
+        <name>Saiful Islam 2</name>
+        <mobile>017240254122</mobile>
+        <email>codersaiful@gmail.com2</email>
+        <address>
+            <presentAdress>
+                <district>Rajshahi2</district>
+                <thana>Durgapur2</thana>
+                <post>121212</post>
+            </presentAdress>
+            
+            <permanentAddress>
+                <district>Rajshahi2</district>
+                <thana>Durgapur2</thana>
+                <post>121212</post>
+            </permanentAddress>
+            
+        </address>
+    </student>
+</college>
