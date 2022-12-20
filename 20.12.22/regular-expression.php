@@ -45,3 +45,14 @@
  * @link https://www.youtube.com/watch?v=5ckmCW8png0&t=1153s&ab_channel=LearnwithSumit-LWS-Bangladesh
  */
 echo 'Regular Expression<br>';
+
+$string = '1+1=2';
+$pattern = "/^1\+1/i";
+
+var_dump(preg_match($pattern,$string));
+//Seart start with b and eng with g
+$string = 'big';
+$pattern = "/a[4]g/i";
+
+var_dump(preg_match($pattern,$string));
+
