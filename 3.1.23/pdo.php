@@ -15,8 +15,13 @@
 var_dump($db_connect);
 
 try{
-    $db_connect = new PDO($dns, $username, $password);
-    var_dump($db_connect);
+    $conn = new PDO($dns, $username, $password);
+    // var_dump($conn);
+    $conn->query( 'CREATE DATABASE IF NOT EXISTS test_zend_class' ) or die("Already available");
+    echo 'Success';
+    var_dump($conn);
+
+
 
 }catch(PDOException $e){
     echo 'Error';
