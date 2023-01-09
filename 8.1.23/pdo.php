@@ -29,8 +29,8 @@ try{
 $sql = 'SELECT * FROM students
 WHERE ID = :id';
 $obj = $conn->prepare($sql, [PDO::ATTR_CURSOR => PDO::CURSOR_FWDONLY]);
-$obj->execute(['id'=> 2]);
-var_dump($obj->fetchAll(PDO::FETCH_ASSOC));
+// $obj->execute(['id'=> 2]);
+// var_dump($obj->fetchAll(PDO::FETCH_ASSOC));
 //Kaj koreni eta, test korte hobe
 $obj->bindParam('id', 1, PDO::PARAM_INT);
 var_dump($obj->fetchAll(PDO::FETCH_ASSOC));
