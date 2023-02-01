@@ -40,3 +40,15 @@ $val3 = $a ^ ($b | $a); // bitwise XOR
 // 15 কিভাবে হলো? 
 echo sprintf('0x%02X - 0x%02X - 0x%02X', $val1, $val2, $val3);
 //0x00 - 0xFF - 0x0F 
+
+hr();
+$a = 15;
+$b = $a << 3; //Explain: b = 15 * 2^2 //Explanation need
+var_dump($b, 0b1100);
+hr();
+var_dump( 5&7);
+hr();
+var_dump(0xF0,0x0f,240&15);
+hr();
+var_dump(5&4,5|4);
+
