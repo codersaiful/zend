@@ -10,3 +10,4 @@ $x = 123 == 0123;
 
 var_dump($x);
 const saiful = 'Saiful';
+echo 'hello ' . 1 + 2 . '34';
