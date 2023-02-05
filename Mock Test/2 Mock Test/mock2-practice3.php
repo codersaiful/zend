@@ -22,3 +22,59 @@ hr();
 $a = 0xF0;
 $b = 0x0F;
 var_dump($a & $b);
+$a = 15 << 2;
+var_dump($a);
+$a = "1";
+$b = "01";
+var_dump($a == $b,$a === $b, gettype($a),gettype($b),$a < $b);
+hr();
+// $a = 'hello' + '123';
+// var_dump($a); //Ans: 123;
+
+function getName($lastName){
+    if($lastName){
+        return 'Blogs';
+    }else{
+        return 'jeremiah';
+    }
+}
+$func = 'getName';
+var_dump(${'func'});
+echo $func(true);
+hr();
+$myVar = 'foo';
+$$myVar = 'bar';
+echo ${'myVar'} . $foo;
+hr();
+$str = "Hello";
+if ($str == "Hello")
+ echo "a";
+else if ($str == "Goodbye")
+ echo "b";
+elseif ($str == "Hello")
+ echo "c";
+else
+ echo "d";
+hr();
+$x = 5;
+switch ($x) {
+ case 5:
+ echo "a";
+ break;
+ case 10:
+ echo "b";
+ break;
+ case 15:
+ echo "c";
+ break;
+ case 20:
+ echo "d";
+ break;
+ default:
+ echo "e";
+}
+hr();
+$number = 15;
+if ($number > 15);
+ for ($i = 1; $i < 5; $i++)
+ echo $i;
