@@ -26,3 +26,13 @@ $val3 = $a ^ ($b | $a); // bitwise XOR
 echo sprintf('0x%02X - 0x%02X - 0x%02X', $val1, $val2, $val3);
 var_dump($val1, $val2, $val3);
 hr();
+$a = range(3,9);
+var_dump($a);
+hr();
+var_dump(
+    't' == t, // Notice //true
+    1 === "1time", //false
+    "top" == 0, //true
+    "top" === 0, //false
+    1 == "1time" //true
+   );

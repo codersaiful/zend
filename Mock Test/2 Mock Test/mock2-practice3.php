@@ -78,3 +78,17 @@ $number = 15;
 if ($number > 15);
  for ($i = 1; $i < 5; $i++)
  echo $i;
+echo $number;
+hr();
+var_dump(ord("a"));
+if (array(12)) {
+    echo "e";
+   }
+hr();
+$a = 4 << 2;
+echo $a;
+hr();
+define('Tree', 'oak');
+// echo 'This tree is: ' . tree;
+var_dump(0x2f + 17);
+var_dump(23 || 23 + 55 && 3);
