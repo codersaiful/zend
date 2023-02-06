@@ -1,0 +1,60 @@
+D OK
+B OK
+A OK
+A OK
+ACD OK
+C OK
+A OK
+D  OK
+A  OK
+A  OK
+B  OK
+D  OK
+A  OK
+C  OK
+D  OK
+ABC  OK
+A  OK
+AB  OK
+B  OK
+A  OK
+A  OK
+A problem
+A problem
+A  OK
+B  OK
+A  OK
+AE  OK
+AB  OK
+C  OK
+A  OK
+  problem need check
+A  OK
+A  OK
+A  OK
+C problem 
+A  OK
+C  OK
+C  OK
+A  OK
+A  OK
+A  OK
+A  OK
+B  OK
+A  OK
+A ...  OK
+D OK
+BC ... problem
+A  OK
+BC problem Need check
+A ... OK
+D  OK
+    problem
+A  OK
+D  OK
+A  OK
+A  ...problem
+A  OK
+A ... problem
+C ...problem
+A  OK
