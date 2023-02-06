@@ -92,3 +92,8 @@ define('Tree', 'oak');
 // echo 'This tree is: ' . tree;
 var_dump(0x2f + 17);
 var_dump(23 || 23 + 55 && 3);
+hr();
+$a = 0xf2 + 0x09;
+var_dump($a);
+$b = $a >> 3;
+echo $b;

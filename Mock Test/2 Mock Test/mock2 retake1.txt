@@ -1,0 +1,62 @@
+D OK
+B OK
+B OK
+A  OK
+A  OK
+B  OK
+C  OK
+D  OK
+B nEED EXPLAIN TO TODAY OK
+A  OK
+C OK
+A OK
+B  OK
+A  OK
+D ... OK
+A OK
+A  OK
+C ... OK
+C  OK
+D OK
+A OK
+A OK
+A OK
+A PROBLEM
+A OK
+A OK
+D OK
+B OK
+B OK
+A OK
+C OK
+A OK
+A OK
+A OK
+B OK
+A OK
+B OK
+A OK
+A OK
+C OK
+D OK
+D OK
+A OK
+A OK
+B OK
+C OK
+A OK
+ABC OK
+D OK
+A  OK
+ABC  OK
+D OK
+..........
+AB  OK
+C OK
+A PROBLEM
+ABC OK
+C PROBLEM
+ABC  OK
+D OK
+
+হয়েছে ৫৬  সময় লেগেছে রিটেকে ৬৩ মিনিট 
